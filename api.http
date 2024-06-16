@@ -1,0 +1,5 @@
+### Get all events
+GET http://localhost:8000/events
+
+### Get one event
+GET http://localhost:8000/events/1
